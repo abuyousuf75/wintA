@@ -1,0 +1,161 @@
+
+/*=======Responsive Css Bellow`========*/
+
+@media(max-width:575.98px){
+    .navbar-toggler:focus{
+        box-shadow:none ;
+    }
+    .fas.fa-bars {
+        color: #fff;
+        font-size: 18px;
+    }
+    .navbar-brand .logo span {
+        line-height: 10px;
+        padding: 5px;
+    }
+    .logo {
+        width: 114px;
+    }
+    .navbar-brand .logo h4 {
+        font-size: 30px;
+       
+    }
+    .nav-item {
+        text-align: center;
+        background: #101010;
+    }
+    .navbar .navbar-nav .nav-link {
+        margin: 5px 5px;
+       
+    }
+    .banner-text h4 {
+        font-size: 16px;
+       
+    }
+    .banner-text h3 {
+       
+        font-size: 45px;
+      
+    }
+    .banner-iteam-main {
+        height: 70vh;
+    }
+    .banner-images{
+       height: 70vh;
+    }
+    #banner .left {
+        left: 5%;
+    }
+    #banner .right {
+       right:5%;
+    }
+    .banner-btn {
+        margin-top: 40px;
+    }
+    #about {
+        padding-top: 50px;
+    }
+    .about-text-head h3 {
+        font-size: 42px;
+        margin-top: 30px;
+        text-align: center;
+    }
+    .about-text-head h4 {
+        font-size: 14px;
+    }
+    .about-text-head p {
+        padding-right: 0px;
+        text-align: center;
+    }
+    .about-img-shape {
+        margin-right: 12px;
+        margin-top: -100px;
+        width: 100px;
+        border: 5px solid #dddd;
+        height: 100px;
+       
+    }
+    .about-img-shape h4 {
+        font-size: 40px;
+        margin-top: 22px;
+    }
+    .about-shape-text {
+      
+        left: -16px;
+        top: 23%;
+      
+    }
+    .about-img-shape p {
+        margin-top: 17px;
+        line-height: 16px;
+    }
+    #menu {
+        padding-top: 50px;
+    }
+    .about-img-second {
+        padding-bottom: 20px;
+    }
+    .iteam-head h3 {
+        font-size: 50px;
+    }
+    .buttons {
+        padding: 10px 20px;
+        margin-bottom: 15px;
+    }
+    #gallery {
+        padding-top: 50px;
+    }
+    .team-head h3 {
+        font-size: 44px;
+        
+    }
+    .booking-head h4 {
+        font-size: 44px;
+    }
+    #table {
+        padding-top: 50px;
+    }
+    .table-bg {
+        height: 635px;
+       
+    }
+    .footer-info p {
+       
+        padding-right: 0px;
+    }
+    .socail-info {
+        margin-bottom: 35px;
+        text-align: center;
+    }
+    .overvew h4 {
+       
+        margin-left: 0px;
+        text-align: center;
+    }
+    .overvew ul {
+        margin-left: -34px;
+        text-align: center;
+    }
+    .contuct-info {
+        text-align: center;
+        margin-bottom: 41px;
+    }
+    .contuct-icon {
+      
+        margin-top: 58px;
+        
+        max-width: 200px;
+    }
+    .contuct-icon i {
+       
+        margin-top: -8px;
+        margin-left: 50px;
+    }
+    .contuct-location {
+        text-align: center;
+    }
+    .contuct-location p {
+       
+        padding-right: 0px;
+    }
+}
